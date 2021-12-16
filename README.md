@@ -13,6 +13,9 @@ In this paper, we propose a rapidly testing method which has a high productivity
 6. [Results](#5-results) 
 6. [References](#6-references)
 ### 1. Introduction
+This work is conducted by:
+- [Tan Ngoc Pham](https://github.com/ngctnnnn/)
+- [An Vo](https://github.com/vokhanhan25)
 #### Dataset's description
 In this research, we use [COVIDx dataset](https://github.com/lindawangg/COVID-Net) [2] - which is a widely used dataset in recent research about COVID-19 nowadays. COVIDx Datset is a dataset synthesized from many a different source, which are in details: Cohen et al. [3], Chung [4], Chung [5], Radiological Society of North America [5],and Radiological Society of North America [6]. Additionally, this dataset also provides an image extension transfer tool: from `.mri` into `.jpg`. And the author moreover provide a code to support data pre-processing and getting rid of unnecessary part for synthesized data.
 #### Method
